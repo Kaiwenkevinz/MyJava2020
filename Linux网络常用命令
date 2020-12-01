@@ -1,0 +1,13 @@
+ssh kzhang1@ohaton.cs.ualberta.ca
+
+查看ip地址
+ifconfig
+
+tcp建立连接
+nc www.google.com
+
+查看网络连接
+netstat -natp | grep 'ESTABLISHED'
+
+抓包
+tcpdump
