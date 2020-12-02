@@ -15,4 +15,6 @@
 
 synchronized 抛出异常后会由JVM释放锁  
 
-粒度(scope)：线程内
+粒度(scope)：线程内  
+
+不可中断性质
