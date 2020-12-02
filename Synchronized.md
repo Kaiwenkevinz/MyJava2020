@@ -13,4 +13,6 @@
   * Class对象
       * synchronized *.class
 
-synchronized 抛出异常后会由JVM释放锁
+synchronized 抛出异常后会由JVM释放锁  
+
+粒度(scope)：线程内
