@@ -12,3 +12,5 @@
       * synchronized static method
   * Class对象
       * synchronized *.class
+
+synchronized 抛出异常后会由JVM释放锁
